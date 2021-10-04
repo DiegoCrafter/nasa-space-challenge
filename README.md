@@ -1,14 +1,5 @@
-# Covid-19 - Flutter UI
+# Covid-19 - NASA SPACE CHALLENGE
 
-## [Watch it on YouTube](https://youtu.be/zx6uMCoW2gQ)
-
-**Packages we are using:**
-
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-
-**Fonts**
-
-- Poppins [link](https://fonts.google.com/specimen/Poppins)
 
 **UI Credit**
 
